@@ -1,0 +1,7 @@
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\bin\Debug\OrdenamientoShellObjeto.exe.config
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\bin\Debug\OrdenamientoShellObjeto.exe
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\bin\Debug\OrdenamientoShellObjeto.pdb
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\obj\Debug\OrdenamientoShellObjeto.csprojAssemblyReference.cache
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\obj\Debug\OrdenamientoShellObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\obj\Debug\OrdenamientoShellObjeto.exe
+C:\Users\Medallin\source\repos\OrdenamientoShellObjeto\OrdenamientoShellObjeto\obj\Debug\OrdenamientoShellObjeto.pdb

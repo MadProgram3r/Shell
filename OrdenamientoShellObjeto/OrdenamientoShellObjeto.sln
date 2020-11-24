@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenamientoShellObjeto", "OrdenamientoShellObjeto\OrdenamientoShellObjeto.csproj", "{3690ED77-0624-4DA1-A2C2-A83E18B7982F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3690ED77-0624-4DA1-A2C2-A83E18B7982F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3690ED77-0624-4DA1-A2C2-A83E18B7982F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3690ED77-0624-4DA1-A2C2-A83E18B7982F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3690ED77-0624-4DA1-A2C2-A83E18B7982F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60EB5985-BAA9-4C93-A919-573C8075D9F6}
+	EndGlobalSection
+EndGlobal
